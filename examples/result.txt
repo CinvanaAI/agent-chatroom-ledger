@@ -1,0 +1,22 @@
+{
+  "unread_before": {
+    "Analyst": 2,
+    "Reviewer": 2
+  },
+  "unread_after_restart": {
+    "Analyst": 0,
+    "Reviewer": 2
+  },
+  "canonical_ids": [
+    1,
+    2
+  ],
+  "visible_ids_after_exclusion": [
+    2
+  ],
+  "verification": {
+    "ok": true,
+    "error_count": 0,
+    "issues": []
+  }
+}
